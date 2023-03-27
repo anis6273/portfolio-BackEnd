@@ -1,8 +1,8 @@
 
 package com.porfolio.dnp.Security.Repository;
 
-import com.porfolio.dnp.security.Entity.Rol;
-import com.porfolio.dnp.security.Enums.RolNombre;
+import com.porfolio.dnp.Security.Entity.Rol;
+import com.porfolio.dnp.Security.Enums.RolNombre;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

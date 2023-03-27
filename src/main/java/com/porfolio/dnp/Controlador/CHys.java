@@ -7,7 +7,7 @@ package com.porfolio.dnp.Controlador;
 import com.porfolio.dnp.Dto.dtoProgreso;
 import com.porfolio.dnp.Entidad.progreso;
 import com.porfolio.dnp.Servicio.SProgreso;
-import com.porfolio.dnp.security.Controler.Mensaje;
+import com.porfolio.dnp.Security.Controler.Mensaje;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

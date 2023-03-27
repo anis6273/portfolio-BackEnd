@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.porfolio.dnp.security.jwt;
+package com.porfolio.dnp.Security.jwt;
 
-import com.porfolio.dnp.security.Entity.UsuarioPrincipal;
+import com.porfolio.dnp.Security.Entity.UsuarioPrincipal;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.MalformedJwtException;

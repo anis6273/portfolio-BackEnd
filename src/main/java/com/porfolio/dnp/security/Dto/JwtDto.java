@@ -1,5 +1,5 @@
 
-package com.porfolio.dnp.security.Dto;
+package com.porfolio.dnp.Security.Dto;
 
 import java.util.Collection;
 import org.springframework.security.core.GrantedAuthority;

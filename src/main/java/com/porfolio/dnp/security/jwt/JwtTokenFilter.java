@@ -1,7 +1,7 @@
 
-package com.porfolio.dnp.security.jwt;
+package com.porfolio.dnp.Security.jwt;
 
-import com.porfolio.dnp.Secutiry.Service.UserDetailsImpl;
+import com.porfolio.dnp.Security.Service.UserDetailsImpl;
 import java.io.IOException;
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

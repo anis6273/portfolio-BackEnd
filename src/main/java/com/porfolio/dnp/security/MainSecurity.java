@@ -1,9 +1,9 @@
 
-package com.porfolio.dnp.security;
+package com.porfolio.dnp.Security;
 
-import com.porfolio.dnp.Secutiry.Service.UserDetailsImpl;
-import com.porfolio.dnp.security.jwt.JwtEntryPoint;
-import com.porfolio.dnp.security.jwt.JwtTokenFilter;
+import com.porfolio.dnp.Security.Service.UserDetailsImpl;
+import com.porfolio.dnp.Security.jwt.JwtEntryPoint;
+import com.porfolio.dnp.Security.jwt.JwtTokenFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

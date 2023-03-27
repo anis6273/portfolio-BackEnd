@@ -1,7 +1,7 @@
 
-package com.porfolio.dnp.security.Entity;
+package com.porfolio.dnp.Security.Entity;
 
-import com.porfolio.dnp.security.Enums.RolNombre;
+import com.porfolio.dnp.Security.Enums.RolNombre;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;

@@ -1,5 +1,5 @@
 /** tiene toda la seguridad* */
-package com.porfolio.dnp.security.Entity;
+package com.porfolio.dnp.Security.Entity;
 
 import java.util.Collection;
 import java.util.List;
